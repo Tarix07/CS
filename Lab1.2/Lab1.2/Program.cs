@@ -41,7 +41,7 @@ namespace Lab1._2
 
                     }
                     data = Encoding.UTF8.GetBytes(File.ReadAllText(pathIN, Encoding.Default));
-                    data1 = Encoding.UTF8.GetBytes(File.ReadAllText(Ext(pathIN,".gz"), Encoding.Default));
+                    data1 = Encoding.UTF8.GetBytes(File.ReadAllText(Ext(pathIN,".bz2"), Encoding.Default));
                 }
                 catch
                 {
@@ -57,10 +57,10 @@ namespace Lab1._2
             Compare(am1, pathIN, ".txt");
 
             Console.WriteLine();
-            Console.WriteLine((Ext(pathIN,".gz")).Split('\\')[6]);
+            Console.WriteLine((Ext(pathIN,".bz2")).Split('\\')[6]);
             Console.WriteLine();
             double am2 = Amount_File(data1);
-            Compare(am2, pathIN, ".gz");
+            Compare(am2, pathIN, ".bz2");
 
         }
 

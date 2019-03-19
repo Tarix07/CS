@@ -48,7 +48,7 @@ namespace Laba1
 
                         Compare(am1, pathIN, ".txt");
                         Compare(am1, pathIN, ".gz");
-                        Compare(am1, pathIN, ".tar");
+                        Compare(am1, pathIN, ".bz2");
                         Compare(am1, pathIN, ".zip");
                         Compare(am1, pathIN, ".rar");
                         Compare(am1, pathIN, ".xz");
