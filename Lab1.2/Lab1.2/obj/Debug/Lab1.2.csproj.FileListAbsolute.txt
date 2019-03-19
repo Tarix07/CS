@@ -1,0 +1,7 @@
+C:\КОМП Сист\Lab1.2\Lab1.2\bin\Debug\Lab1.2.exe.config
+C:\КОМП Сист\Lab1.2\Lab1.2\bin\Debug\Lab1.2.exe
+C:\КОМП Сист\Lab1.2\Lab1.2\bin\Debug\Lab1.2.pdb
+C:\КОМП Сист\Lab1.2\Lab1.2\obj\Debug\Lab1.2.csprojAssemblyReference.cache
+C:\КОМП Сист\Lab1.2\Lab1.2\obj\Debug\Lab1.2.csproj.CoreCompileInputs.cache
+C:\КОМП Сист\Lab1.2\Lab1.2\obj\Debug\Lab1.2.exe
+C:\КОМП Сист\Lab1.2\Lab1.2\obj\Debug\Lab1.2.pdb
